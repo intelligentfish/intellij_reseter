@@ -1,0 +1,4 @@
+C:\Users\Wang\.GoLand2019.3\config\eval\GoLand193.evaluation.key|C:\Users\Wang\.GoLand2019.3\config\options\other.xml|goland
+C:\Users\Wang\.CLion2019.3\config\eval\CLion193.evaluation.key|C:\Users\Wang\.CLion2019.3\config\options\other.xml|clion
+C:\Users\Wang\.IntelliJIdea2019.3\config\eval\idea193.evaluation.key|C:\Users\Wang\.IntelliJIdea2019.3\config\options\other.xml|idea
+C:\Users\Wang\.PyCharm2019.3\config\eval\PyCharm193.evaluation.key|C:\Users\Wang\.PyCharm2019.3\config\options\other.xml|pycharm
